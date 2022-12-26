@@ -28,7 +28,7 @@
 		"lint:fix": "eslint --fix ."
 	},
 	"dependencies": {
-		"@babel/core": "7.20.2",
+		"@babel/core": "7.20.7",
 		"@babel/eslint-parser": "7.19.1",
 		"@hexatool/eslint-config": "1.0.0",
 		"@typescript-eslint/eslint-plugin": "5.44.0",
