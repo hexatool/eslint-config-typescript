@@ -30,7 +30,7 @@
 	"dependencies": {
 		"@babel/core": "7.20.7",
 		"@babel/eslint-parser": "7.19.1",
-		"@hexatool/eslint-config": "1.0.0",
+		"@hexatool/eslint-config": "1.0.1",
 		"@typescript-eslint/eslint-plugin": "5.44.0",
 		"@typescript-eslint/parser": "5.44.0",
 		"eslint-config-prettier": "8.6.0",
