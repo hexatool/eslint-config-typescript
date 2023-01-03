@@ -28,17 +28,17 @@
 		"lint:fix": "eslint --fix ."
 	},
 	"dependencies": {
-		"@babel/core": "7.20.2",
+		"@babel/core": "7.20.7",
 		"@babel/eslint-parser": "7.19.1",
 		"@hexatool/eslint-config": "1.0.1",
 		"@typescript-eslint/eslint-plugin": "5.44.0",
 		"@typescript-eslint/parser": "5.44.0",
-		"eslint-config-prettier": "8.5.0",
+		"eslint-config-prettier": "8.6.0",
 		"eslint-plugin-import": "2.26.0",
 		"eslint-plugin-prettier": "4.2.1",
 		"eslint-plugin-simple-import-sort": "8.0.0",
 		"eslint-plugin-unused-imports": "2.0.0",
-		"prettier": "2.8.0"
+		"prettier": "2.8.1"
 	},
 	"peerDependencies": {
 		"eslint": ">=8",
