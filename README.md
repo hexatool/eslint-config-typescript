@@ -6,30 +6,17 @@
   Opinionated linting configuration considering modern TypeScript best practices and providing consistency to your code.
 </p>
 
-## How to use
+## Installation
 
-1. Install the dependency
-   ```bash
-   npm install --save-dev @hexatool/eslint-config-typescript
-   ```
-2. Add it to your `.eslintrc.js` file:
-   ```js
-   {
-     extends: [ "@hexatool/eslint-config-typescript" ]
-   }
-   ```
-3. If you are using TypeScript, extend the TypeScript configuration instead, and point to your `tsconfig.json`
-   in `parserOptions`:
-   ```js
-   {
-     extends: [ "eslint-config-codely/typescript" ],
-     parserOptions: {
-       project: ["./tsconfig.json"],
-     },
-   }
-   ```
+```bash
+npm install --save-dev eslint @hexatool/eslint-config-typescript
+```
 
-ℹ️ Please note that some of the rules enabled by default require that you have `strict: true` in your `tsconfig.json`.
+**Using yarn**
+
+```bash
+yarn add eslint @hexatool/eslint-config-typescript -dev
+```
 
 ## What it does
 
@@ -42,6 +29,33 @@
     - [`unused-imports`](https://github.com/sweepline/eslint-plugin-unused-imports): finds and removes unused ES6 module
       imports
 - Uses the following [rules](https://github.com/hexatool/eslint-config-typescript/blob/main/.eslintrc.js#L13)
+
+## How to use
+
+1. Add it to your `.eslintrc.js` file
+
+   ```js
+   {
+     extends: [ "@hexatool/eslint-config-typescript" ]
+   }
+   ```
+
+2. Run eslint
+
+   ```shell
+    eslint .
+   ```
+
+   **Or adding to your package.json**
+
+    ```json
+    "scripts": {
+        "lint": "eslint .",
+        "lint:fix": "eslint --fix ."
+    }
+    ```
+
+ℹ️ Please note that some rules enabled by default require that you have `strict: true` in your `tsconfig.json`.
 
 ## Hexatool Code Quality Standards
 
