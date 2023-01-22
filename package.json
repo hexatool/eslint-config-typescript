@@ -30,18 +30,11 @@
 		"version": "changeset version"
 	},
 	"dependencies": {
-		"@babel/core": "7.20.12",
-		"@babel/eslint-parser": "7.19.1",
 		"@changesets/cli": "2.26.0",
 		"@hexatool/eslint-config": "1.0.1",
 		"@typescript-eslint/eslint-plugin": "5.48.1",
 		"@typescript-eslint/parser": "5.48.1",
-		"eslint-config-prettier": "8.6.0",
-		"eslint-plugin-import": "2.27.4",
-		"eslint-plugin-prettier": "4.2.1",
-		"eslint-plugin-simple-import-sort": "8.0.0",
-		"eslint-plugin-unused-imports": "2.0.0",
-		"prettier": "2.8.3"
+		"eslint-plugin-import": "2.27.4"
 	},
 	"peerDependencies": {
 		"eslint": ">=8",
