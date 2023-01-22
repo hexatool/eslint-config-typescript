@@ -3,6 +3,8 @@
 	"version": "1.0.2",
 	"description": "Hexatool's ESLint and Prettier Config",
 	"keywords": [
+		"hexa",
+		"hexatool",
 		"javascript",
 		"typescript",
 		"ecmascript",
@@ -10,7 +12,8 @@
 		"eslintconfig",
 		"lint",
 		"config",
-		"prettier"
+		"prettier",
+		"prettierconfig"
 	],
 	"homepage": "https://github.com/hexatool/eslint-config-typescript",
 	"bugs": {
