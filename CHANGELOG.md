@@ -4,4 +4,4 @@
 
 ### Patch Changes
 
-- c2b6633: Actualizar dependencias
+- c2b6633: Update dependencies
