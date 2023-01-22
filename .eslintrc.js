@@ -11,6 +11,9 @@ module.exports = {
 	overrides: [
 		{
 			files: ['*.ts', '*.tsx'],
+			parserOptions: {
+				project: ['./tsconfig.json'],
+			},
 			extends: [
 				'plugin:@typescript-eslint/recommended',
 				'plugin:@typescript-eslint/recommended-requiring-type-checking',
