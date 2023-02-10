@@ -1,5 +1,11 @@
 # @hexatool/eslint-config-typescript
 
+## 1.0.6
+
+### Patch Changes
+
+- 756d840: Update dependency @hexatool/eslint-config to v1.0.6
+
 ## 1.0.5
 
 ### Patch Changes
