@@ -522,7 +522,7 @@ __metadata:
   resolution: "@hexatool/eslint-config-typescript@workspace:."
   dependencies:
     "@changesets/cli": 2.26.0
-    "@hexatool/eslint-config": 1.0.5
+    "@hexatool/eslint-config": 1.0.6
     "@typescript-eslint/eslint-plugin": 5.51.0
     "@typescript-eslint/parser": 5.51.0
     eslint: 8.33.0
@@ -533,9 +533,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@hexatool/eslint-config@npm:1.0.5":
-  version: 1.0.5
-  resolution: "@hexatool/eslint-config@npm:1.0.5"
+"@hexatool/eslint-config@npm:1.0.6":
+  version: 1.0.6
+  resolution: "@hexatool/eslint-config@npm:1.0.6"
   dependencies:
     "@babel/core": 7.20.12
     "@babel/eslint-parser": 7.19.1
@@ -547,7 +547,7 @@ __metadata:
     prettier: 2.8.4
   peerDependencies:
     eslint: ">=8"
-  checksum: 528a1dfb9974902a0eea3f181956ee4f940e0046bc552613739b1da3d9723b785b774538dfdf41fb545fdf4d87f2dbf84b75466ee7aca037941de63449118d6a
+  checksum: a0be43dcde720ac8ad74fd386c225874261f14e31c56fb152d3ffacf49377404d837bdd5bcf5acab5bed3b86cdcc2709557827586fc7dc43cae8567291662051
   languageName: node
   linkType: hard
 
