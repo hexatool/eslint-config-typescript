@@ -1,5 +1,11 @@
 # @hexatool/eslint-config-typescript
 
+## 1.0.5
+
+### Patch Changes
+
+- a33dbe9: update @typescript-eslint to v5.51.
+
 ## 1.0.4
 
 ### Patch Changes
