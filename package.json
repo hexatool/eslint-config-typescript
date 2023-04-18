@@ -32,7 +32,7 @@
 		"version": "changeset version"
 	},
 	"dependencies": {
-		"@hexatool/eslint-config": "1.0.6",
+		"@hexatool/eslint-config": "1.0.7",
 		"@typescript-eslint/eslint-plugin": "5.59.0",
 		"@typescript-eslint/parser": "5.59.0"
 	},
