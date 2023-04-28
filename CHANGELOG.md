@@ -1,5 +1,11 @@
 # @hexatool/eslint-config-typescript
 
+## 1.0.8
+
+### Patch Changes
+
+- 6ae9b6a: Add dependencies to work with Yarn pnp
+
 ## 1.0.7
 
 ### Patch Changes
