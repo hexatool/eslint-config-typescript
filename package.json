@@ -1,6 +1,6 @@
 {
 	"name": "@hexatool/eslint-config-typescript",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"description": "Hexatool's ESLint and Prettier Config",
 	"keywords": [
 		"hexa",

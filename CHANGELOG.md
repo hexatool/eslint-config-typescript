@@ -1,5 +1,11 @@
 # @hexatool/eslint-config-typescript
 
+## 1.0.11
+
+### Patch Changes
+
+- Update dependencies
+
 ## 1.0.10
 
 ### Patch Changes
