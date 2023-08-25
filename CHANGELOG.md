@@ -1,5 +1,11 @@
 # @hexatool/eslint-config-typescript
 
+## 2.0.1
+
+### Patch Changes
+
+- 1aaccb9: Fix @typescript-eslint rules
+
 ## 2.0.0
 
 ### Major Changes
