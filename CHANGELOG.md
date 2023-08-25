@@ -5,6 +5,7 @@
 ### Major Changes
 
 - 5d76ae5: Update @hexatool/eslint-config to v2
+- c33072b: Update typescript-eslint monorepo to v6 (major)
 
 ### Patch Changes
 
