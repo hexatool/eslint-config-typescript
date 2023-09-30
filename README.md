@@ -6,6 +6,8 @@
   Opinionated linting configuration considering modern TypeScript best practices and providing consistency to your code.
 </p>
 
+> ⚠️ Deprecated: This package is deprecated in favor of [@hexatool/eslint-config](https://github.com/hexatool/eslint-config)
+
 ## Installation
 
 ```bash
